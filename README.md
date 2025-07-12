@@ -11,55 +11,55 @@ the Revenue Management Team has outsourced this task to a third-party analytics 
 🎯 Objective
 As a data analyst, I was tasked with:
 
-    Building custom metrics as per stakeholder requirements.
+Building custom metrics as per stakeholder requirements.
 
-    Designing an interactive Power BI dashboard based on a mock-up.
+Designing an interactive Power BI dashboard based on a mock-up.
     
-    Extracting key business insights beyond the requested metrics to support strategic decisions.
+Extracting key business insights beyond the requested metrics to support strategic decisions.
 
 📊 Dashboard Features
 The Power BI dashboard includes the following views:
 
-    👔 Executive Summary – High-level insights for top-level management.
+👔 Executive Summary – High-level insights for top-level management.
 
-    📅 Booking Analysis – Trends in lead time, cancellation, and booking channels.
+📅 Booking Analysis – Trends in lead time, cancellation, and booking channels.
 
-    💰 Revenue Analysis – Deep dive into revenue performance across time and segments.
+💰 Revenue Analysis – Deep dive into revenue performance across time and segments.
 
 📌 Key Metrics Used
 
-    Occupancy %
+Occupancy %
 
-    Average Daily Rate (ADR)
+Average Daily Rate (ADR)
 
-    Revenue Per Available Room (RevPAR)
+Revenue Per Available Room (RevPAR)
 
-    Realization %
+Realization %
 
-    Cancellation %
+Cancellation %
 
-    No-Show Rate
+No-Show Rate
 
-    DSRN(Daily Sellable Room Nights)
+DSRN(Daily Sellable Room Nights)
 
-    DURN(Daily Utilized Room Nights)
+DURN(Daily Utilized Room Nights)
 
-    DBRN(Daily Booked Room Nights)
+DBRN(Daily Booked Room Nights)
 
 🛠 Tools & Skills Used
 Power BI
 
-    Data Modeling (Star Schema)
+Data Modeling (Star Schema)
 
-      DAX for KPI Calculations
+DAX for KPI Calculations
 
-      Custom Report Tooltips
+Custom Report Tooltips
 
-    Microsoft Excel (for pre-cleaning)
+Microsoft Excel (for pre-cleaning)
 
-    Data Storytelling
+Data Storytelling
 
-    Hospitality Domain Knowledge
+Hospitality Domain Knowledge
 
 🧑‍💻 Author
 Jayram R Prabhu
